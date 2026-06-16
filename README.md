@@ -35,12 +35,14 @@ Building reliable data pipelines, dbt models, and Power BI dashboards at enterpr
 
 ## 💼 Experience Highlights
 
-| Company | Role | Impact |
+| Company | Role | Key Impact |
 |---|---|---|
-| **Mercedes-Benz AG** | BI Analyst | Power BI dashboards for 200+ global users · SAP pipelines on Azure Databricks |
-| **BASF** | Analytics Consultant | Star-schema warehouse · 25% improvement in data retrieval time |
-| **Fiverr (Remote)** | Data Engineer | ~100 GB daily ELT pipelines · 40% reduction in manual reporting |
-| **Cognizant** | Data Analyst | Enterprise BI solutions across multiple client engagements |
+| **Ventas Softech Pvt. Ltd.** | Data Engineer | Azure Data Factory • Databricks • Snowflake • 100GB+ daily pipelines • 30% faster processing |
+| **Mercedes-Benz AG** | BI Analyst | Power BI for 200+ users • SAP on Databricks • 40% reduction in manual reporting |
+| **BASF** | Analytics Consultant | Star-schema design • SQL ELT pipelines • 25% faster data retrieval |
+| **Heidelberg Materials** | Analytics Consultant | Tableau reporting • Global dashboards • Row-Level Security implementation |
+| **REWE GmbH (Freelance)** | Junior Data Analyst | SQL • Power BI • FMCG analytics • 30% reporting automation |
+| **Anewa Engineering Pvt. Ltd.** | Data Analyst | SQL Server • Power BI • ETL development • Enterprise BI solutions |
 
 ---
 
