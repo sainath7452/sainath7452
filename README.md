@@ -37,12 +37,12 @@ Building reliable data pipelines, dbt models, and Power BI dashboards at enterpr
 
 | Company | Role | Key Impact |
 |---|---|---|
-| **Ventas Softech Pvt. Ltd.** | Data Engineer | Azure Data Factory • Databricks • Snowflake • 100GB+ daily pipelines • 30% faster processing |
-| **Mercedes-Benz AG** | BI Analyst | Power BI for 200+ users • SAP on Databricks • 40% reduction in manual reporting |
-| **BASF** | Analytics Consultant | Star-schema design • SQL ELT pipelines • 25% faster data retrieval |
-| **Heidelberg Materials** | Analytics Consultant | Tableau reporting • Global dashboards • Row-Level Security implementation |
-| **REWE GmbH (Freelance)** | Junior Data Analyst | SQL • Power BI • FMCG analytics • 30% reporting automation |
-| **Anewa Engineering Pvt. Ltd.** | Data Analyst | SQL Server • Power BI • ETL development • Enterprise BI solutions |
+| **Ventas Softech Pvt. Ltd.** | Data Engineer | Built Azure Data Factory and Snowflake ELT pipelines, implemented incremental loading, and optimized data processing through medallion architecture |
+| **Mercedes-Benz AG** | BI Analyst | Developed Power BI dashboards for 200+ global users and built Azure Databricks pipelines for SAP data, reducing manual reporting by 40% |
+| **BASF** | Analytics Consultant | Designed star-schema data models and SQL ELT pipelines, improving supply chain data retrieval performance by 25% |
+| **Heidelberg Materials** | Analytics Consultant | Developed Tableau dashboards and implemented secure reporting solutions with row-level security for global business users |
+| **REWE GmbH (Freelance)** | Junior Data Analyst | Built SQL-driven Power BI dashboards and automated reporting workflows, reducing manual reporting effort by 30% |
+| **Anewa Engineering Pvt. Ltd.** | Data Analyst | Developed enterprise BI solutions using SQL Server, Power BI, and Tableau while automating reporting and ETL workflows |
 
 ---
 
