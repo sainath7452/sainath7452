@@ -4,7 +4,7 @@
 
 Building reliable data pipelines, dbt models, and Power BI dashboards at enterprise scale.
 
-📧 sainathreddy.panga@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sainathreddy-panga) &nbsp;|&nbsp; 🟢 Open to BI & Analytics Engineering roles in EU
+📧 sainathreddy.panga@gmail.com &nbsp;|&nbsp; 💼 🟢 Open to BI & Analytics Engineering roles in EU
 
 ---
 
