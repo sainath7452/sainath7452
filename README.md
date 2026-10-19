@@ -37,7 +37,7 @@ Building reliable data pipelines, dbt models, and Power BI dashboards at enterpr
 
 | Company | Role | Key Impact |
 |---|---|---|
-| **Ventas Softech Pvt. Ltd.** | Data Engineer | Built Azure Data Factory and Snowflake ELT pipelines, implemented incremental loading, and optimized data processing through medallion architecture |
+| **Ventas Softech** | Data Engineer | Built Azure Data Factory and Snowflake ELT pipelines, implemented incremental loading, and optimized data processing through medallion architecture |
 | **Mercedes-Benz AG** | BI Analyst | Developed Power BI dashboards for 200+ global users and built Azure Databricks pipelines for SAP data, reducing manual reporting by 40% |
 | **BASF** | Analytics Consultant | Designed star-schema data models and SQL ELT pipelines, improving supply chain data retrieval performance by 25% |
 | **Heidelberg Materials** | Analytics Consultant | Developed Tableau dashboards and implemented secure reporting solutions with row-level security for global business users |
